@@ -1,5 +1,5 @@
+theme: Minima
 # Simple-Portfolio
-theme: minima
 
 Website reference: https://towardsdatascience.com/how-to-build-a-simple-portfolio-website-for-free-f49327675fd9
 
