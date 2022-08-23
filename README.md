@@ -4,5 +4,3 @@ Website reference: https://towardsdatascience.com/how-to-build-a-simple-portfoli
 
 ## Content
 I have changed or edit in this portfolio
-
-theme: Minima
