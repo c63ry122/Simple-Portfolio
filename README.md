@@ -8,3 +8,6 @@ YouTube Reference: https://www.youtube.com/watch?v=6NXLGP65S2Q
 2. Project related by user
 3. Description of the Project
 
+##Other References:
+1. https://www.mathsisfun.com/operation-order-pemdas.html
+
